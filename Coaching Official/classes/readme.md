@@ -1,12 +1,12 @@
 # class & objects in python
 
-- Defining of class
-- creating objects/instance
-- constructor
-- instance variables
-- self keyword
-- instance methods
-- using object methods
+- Defining of class ✓
+- creating objects/instance ✓
+- constructor ✓
+- instance variables ✓
+- self keyword ✓
+- instance methods ✓
+- using object methods ✓
 - special methods
 - importing classes
 - inheritance
