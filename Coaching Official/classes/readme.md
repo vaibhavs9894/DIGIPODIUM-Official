@@ -7,9 +7,9 @@
 - self keyword ✓
 - instance methods ✓
 - using object methods ✓
-- special methods
-- importing classes
-- inheritance
-- overriding methods
+- special methods ✓
+- importing classes ✓
+- inheritance ✓
+- overriding methods 
 - super() method
-- data classes (3.7 and abobe)
+- data classes (3.7 and above)
