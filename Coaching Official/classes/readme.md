@@ -10,6 +10,6 @@
 - special methods ✓
 - importing classes ✓
 - inheritance ✓
-- overriding methods 
-- super() method
-- data classes (3.7 and above)
+- overriding methods  ✓
+- super() method ✓
+- data classes (3.7 and above) ✓
