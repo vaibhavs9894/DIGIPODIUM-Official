@@ -29,7 +29,7 @@ if 'orange' in fruits:
 else:
     print('orange not found')
 
-last_item_removed = fruits.popitem()
+last_item_removed = fruits.popitem() #remove last value of dictionary
 print(fruits)
 print(f'{last_item_removed} removed from fruits')
 

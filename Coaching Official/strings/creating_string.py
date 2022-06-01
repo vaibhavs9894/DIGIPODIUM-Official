@@ -18,7 +18,7 @@ bookinfo = """Mistborn: The Final Empire,
 also known simply as Mistborn or The Final Empire, 
 is a fantasy novel written by American author Brandon Sanderson. 
 It was published on July 17, 2006 by Tor Books and 
-is the first novel in the Mistborn trilogy, followed
+is the first novel in the Mistborn trilogy, followed+++++++++
 by The Well of Ascension in 2007 and The Hero of Ages in 2008.
 """
 

@@ -17,15 +17,15 @@ for i in range(1,10):
     print('$ ' * i)
 
 # membership operator
-message = 'the most important thing for a coder is to code'
+message = 'the most elephant important thing for a coder is to code'
 
+if 'elephant' in message:
+    print('i am in elephant')
 if 'thing' in message:
-    print('thing -> word found')
-
+   print('things -> word found')
 if 'very' in message:
     print('very -> word found')
 
 if 'z' not in message:
     print('z is not available in message')
 
-print('elephant' in message)
